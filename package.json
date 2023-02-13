@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-kurapika",
+  "version": "1.0.0",
+  "description": "to create own library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4C-Funny-valentine/show-my-name-kurapika.git"
+  },
+  "keywords": [
+    "show-my-name-kurapika"
+  ],
+  "author": "Nyein Kyaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4C-Funny-valentine/show-my-name-kurapika/issues"
+  },
+  "homepage": "https://github.com/D4C-Funny-valentine/show-my-name-kurapika#readme"
+}
